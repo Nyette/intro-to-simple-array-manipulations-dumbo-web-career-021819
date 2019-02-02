@@ -14,6 +14,7 @@ def pop_with_args(array)
   array.pop(2)
 end
 
+<<<<<<< HEAD
 def using_shift(array)
   array.shift
 end
@@ -47,3 +48,7 @@ def using_delete_at(array, integer)
 end
 
 
+=======
+
+  
+>>>>>>> c10988a9290496e96aeb90da1e46ecae6e36ab6d
